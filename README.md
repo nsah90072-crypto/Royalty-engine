@@ -7,6 +7,7 @@
 It allows creators to register their assets and define a royalty percentage that is enforced on every transaction. This ensures fair and transparent compensation for creators across secondary sales.
 
 ---
+<img width="1920" height="1080" alt="Screenshot 2026-04-13 140841" src="https://github.com/user-attachments/assets/ad9cacce-b512-4bfb-9f6c-346e4ac5ad31" />
 
 ## ⚙️ What It Does
 
